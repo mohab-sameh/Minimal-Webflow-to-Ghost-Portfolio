@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{@site.locale}}" data-wf-page="{{{ block "wf-page" }}}" data-wf-site="{{{ block "wf-site" }}}">
+<head>
+    <title>{{meta_title}}</title>
+    {{{ block "wf-head" }}}
+
+    <link href="{{asset "css/udesly-ghost.css"}}" rel="stylesheet"/>
+    {{ghost_head}}
+</head>
+<body class="{{body_class}} {{{ block "wf-classes" }}}">
+    {{{body}}}
+
+    {{ghost_foot}}
+    <script src="{{asset "js/udesly-ghost.min.js"}}"></script>
+</body>
+</html>
