@@ -708,7 +708,10 @@ p {
 }
 
 .main-image {
+  width: 100%;
+  margin-right: auto;
   margin-bottom: 39px;
+  margin-left: auto;
 }
 
 .byline-wrapper {
@@ -772,7 +775,20 @@ p {
 }
 
 .blog-post {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
   margin-bottom: 100px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 .about-content {
@@ -781,6 +797,10 @@ p {
   margin-right: auto;
   margin-bottom: 51px;
   margin-left: auto;
+}
+
+.about-content.centered {
+  text-align: center;
 }
 
 .about-photo {
