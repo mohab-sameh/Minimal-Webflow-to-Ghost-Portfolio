@@ -1,10 +1,14 @@
 # Minimal Portfolio Template for [Ghost CMS](https://github.com/TryGhost/Ghost)
+![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E) ![Webflow](https://a11ybadges.com/badge?logo=webflow) ![Handlebars.js](https://a11ybadges.com/badge?logo=handlebarsdotjs)
 
+
+<br />
 This is an minimal Ghost-powered CMS Blog template developed on Webflow and converted to Ghost to break away from Webflow's pricey CMS, while benefiting from Ghost's insanely fast performance.
 
 
 
-
+<br />
+<h1 align='left'><i>Tools 🔨</i></h1>
 ### This web portfolio has been: 📋
 - Developed in Webflow (over Webflow native CMS)
 - Converted into a Ghost CMS-compatible template.
@@ -12,8 +16,7 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 
 
 <br />
-
-
+<h1 align='left'><i>Usage 🎓</i></h1>
 ### To use this as a theme for *[Ghost CMS](https://github.com/TryGhost/Ghost)*: 📔
 - Install Ghost CLI.
 - Clone repo.
@@ -23,12 +26,16 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 - Add posts (make sure to include the #blog-posts tag if you want that post to show up on the home page)
 - Enjoy!
 
-<br />
 
+<br />
+<h1 align='left'><i>Live Demo 📺</i></h1>
 
 ### Try a live test instance: 💻
 - [Click here to check a live instance](https://www.sneaks.me)
 
+
+<br />
+<h1 align='left'><i>Contact Me 👋</i></h1>
 ### If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com 📫
 
 
