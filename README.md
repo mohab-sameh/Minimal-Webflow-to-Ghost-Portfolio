@@ -1,6 +1,21 @@
 # Tokyo-Porfolio-GhostCMS
-This web portfolio has been developed in Webflow. Converted into Ghost CMS-compatible using udesly adapter, then published and configured as a theme for Ghost CMS.
+This web portfolio has been:
+- Developed in Webflow (over Webflow native CMS)
+- Converted into Ghost CMS-compatible using udesly adapter.
+- Hosted and configured as a theme for Ghost CMS.
 
+
+
+To use this as a theme for Ghost CMS:
+- Install Ghost CLI.
+- Clone repo.
+- Compress repo content (must be a .zip archive).
+- Install as theme in Ghost admin panel.
+- Make sure your Ghost admin panel has the following pages: Tags, About, Home, 404 (if any of those are missing, just add a new page with the corresponding name)
+- Add posts (make sure to include the #blog-posts tag if you want that post to show up on the home page)
+- Enjoy!
+
+If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com
 
 
 ![FireShot Capture 024 - Mohab's Portfolio - localhost](https://user-images.githubusercontent.com/37941642/184046325-6f97c641-1176-4120-8f8b-6757d4df5ec4.png)
