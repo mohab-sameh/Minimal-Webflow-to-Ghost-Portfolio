@@ -1,4 +1,4 @@
-# Minimal Porfolio Template for Ghost CMS
+# Minimal Portfolio Template for Ghost CMS
 
 This is an minimal Ghost-powered CMS Blog template developed on Webflow and converted to Ghost to break away from Webflow's pricey CMS, while benefiting from Ghost's insanely fast performance.
 
