@@ -19,7 +19,7 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 - Enjoy!
 
 ### Try a live test instance here: 💻
-- http://20.111.59.80/
+- sneaks.com
 
 ### If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com 📫
 
