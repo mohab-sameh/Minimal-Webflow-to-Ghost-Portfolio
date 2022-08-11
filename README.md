@@ -1,4 +1,4 @@
-<center><h1>Minimal Portfolio Template for [Ghost CMS](https://github.com/TryGhost/Ghost)</h1></center>
+<center><h1>Minimal Portfolio Template for <a href="https://github.com/TryGhost/Ghost">Ghost CMS</a></h1></center>
 <p align="center">
   <img src="https://img.shields.io/badge/ghost-%23738A94.svg?&style=for-the-badge&logo=ghost&logoColor=white" /> <img src="https://img.shields.io/badge/webflow-%234353FF.svg?&style=for-the-badge&logo=webflow&logoColor=white" />
 </p>
