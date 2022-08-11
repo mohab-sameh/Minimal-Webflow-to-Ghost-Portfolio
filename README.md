@@ -16,7 +16,7 @@
 - Add posts (make sure to include the #blog-posts tag if you want that post to show up on the home page)
 - Enjoy!
 
-### Check online instance here:
+### Try a live test instance here:
 - http://20.111.59.80/
 
 ### If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com
