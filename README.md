@@ -1,15 +1,15 @@
-# Minimal Porfolio Template for Ghost CMS 💻🌟
+# Minimal Porfolio Template for Ghost CMS :shipit:🌟
 
 This is an minimal Ghost-powered CMS Blog template developed on Webflow and converted to Ghost to break away from Webflow's pricey CMS, while benefiting from Ghost's insanely fast performance.
 
-### This web portfolio has been:
+### This web portfolio has been: 📋
 - Developed in Webflow (over Webflow native CMS)
 - Converted into a Ghost CMS-compatible template.
 - Hosted and configured as a theme for Ghost CMS.
 
 
 
-### To use this as a theme for Ghost CMS:
+### To use this as a theme for Ghost CMS: 📔
 - Install Ghost CLI.
 - Clone repo.
 - Compress repo content (must be a .zip archive).
@@ -18,7 +18,7 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 - Add posts (make sure to include the #blog-posts tag if you want that post to show up on the home page)
 - Enjoy!
 
-### Try a live test instance here:
+### Try a live test instance here: 💻
 - http://20.111.59.80/
 
 ### If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com 📫
