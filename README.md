@@ -11,6 +11,7 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 
 <br />
 <h1 align='left'><i>Tools 🔨</i></h1>
+
 ### This web portfolio has been: 📋
 - Developed in Webflow (over Webflow native CMS)
 - Converted into a Ghost CMS-compatible template.
@@ -19,7 +20,7 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 
 <br />
 <h1 align='left'><i>Usage 🎓</i></h1>
-<h3>To use this as a theme for <a href="https://github.com/TryGhost/Ghost"><i>Ghost CMS<i></a>: 📔 </h3>
+<h3>To use this as a theme for <a href="https://github.com/TryGhost/Ghost"><i>Ghost CMS</i></a>: 📔 </h3>
   
 - Install Ghost CLI.
 - Clone repo.
