@@ -20,6 +20,7 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 <br />
 <h1 align='left'><i>Usage 🎓</i></h1>
 <h3>To use this as a theme for <a href="https://github.com/TryGhost/Ghost"><i>Ghost CMS<i></a>: 📔 </h3>
+  
 - Install Ghost CLI.
 - Clone repo.
 - Compress repo content (must be a .zip archive).
