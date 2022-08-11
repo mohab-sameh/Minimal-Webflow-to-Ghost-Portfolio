@@ -11,6 +11,7 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 - Hosted and configured as a theme for Ghost CMS.
 
 
+<br />
 
 
 ### To use this as a theme for *[Ghost CMS](https://github.com/TryGhost/Ghost)*: 📔
@@ -22,7 +23,7 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 - Add posts (make sure to include the #blog-posts tag if you want that post to show up on the home page)
 - Enjoy!
 
-
+<br />
 
 
 ### Try a live test instance: 💻
@@ -31,7 +32,7 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 ### If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com 📫
 
 
----
+<br />
 
 ![FireShot Capture 024 - Mohab's Portfolio - localhost](https://user-images.githubusercontent.com/37941642/184046325-6f97c641-1176-4120-8f8b-6757d4df5ec4.png)
 
