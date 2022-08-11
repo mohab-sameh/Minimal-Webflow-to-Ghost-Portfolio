@@ -1,4 +1,4 @@
-# Minimal Portfolio Template for **[Ghost CMS]([https://eff.org](https://github.com/TryGhost/Ghost))**
+# Minimal Portfolio Template for *[Ghost CMS](https://github.com/TryGhost/Ghost)*
 
 This is an minimal Ghost-powered CMS Blog template developed on Webflow and converted to Ghost to break away from Webflow's pricey CMS, while benefiting from Ghost's insanely fast performance.
 
@@ -9,7 +9,7 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 
 
 
-### To use this as a theme for **[Ghost CMS]([https://eff.org](https://github.com/TryGhost/Ghost))**: 📔
+### To use this as a theme for *[Ghost CMS](https://github.com/TryGhost/Ghost)*: 📔
 - Install Ghost CLI.
 - Clone repo.
 - Compress repo content (must be a .zip archive).
@@ -19,7 +19,7 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 - Enjoy!
 
 ### Try a live test instance: 💻
-- **[Click here to check a live instance]([https://www.sneaks.me))**
+- *[Click here to check a live instance]([https://www.sneaks.me](https://www.sneaks.me))*
 
 ### If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com 📫
 
