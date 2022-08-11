@@ -1,4 +1,4 @@
-# Tokyo-Porfolio-GhostCMS
+# Minimal-Porfolio-for-Ghost-CMS
 This web portfolio has been:
 - Developed in Webflow (over Webflow native CMS)
 - Converted into a Ghost CMS-compatible template.
