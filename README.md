@@ -1,12 +1,13 @@
 # Minimal Porfolio Template for Ghost CMS
-This web portfolio has been:
+
+###This web portfolio has been:
 - Developed in Webflow (over Webflow native CMS)
 - Converted into a Ghost CMS-compatible template.
 - Hosted and configured as a theme for Ghost CMS.
 
 
 
-To use this as a theme for Ghost CMS:
+### To use this as a theme for Ghost CMS:
 - Install Ghost CLI.
 - Clone repo.
 - Compress repo content (must be a .zip archive).
@@ -15,7 +16,10 @@ To use this as a theme for Ghost CMS:
 - Add posts (make sure to include the #blog-posts tag if you want that post to show up on the home page)
 - Enjoy!
 
-If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com
+### Check online instance here:
+- http://20.111.59.80/
+
+### If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com
 
 
 ![FireShot Capture 024 - Mohab's Portfolio - localhost](https://user-images.githubusercontent.com/37941642/184046325-6f97c641-1176-4120-8f8b-6757d4df5ec4.png)
