@@ -13,35 +13,35 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 <h1 align='left'><i>Tools 🔨</i></h1>
 
 ### This web portfolio has been: 📋
-- Developed in Webflow (over Webflow native CMS)
+- Developed in Webflow (over Webflow native CMS).
 - Converted into a Ghost CMS-compatible template.
 - Hosted and configured as a theme for Ghost CMS.
 
 
 <br />
-<h1 align='left'><i>Usage 🎓</i></h1>
-<h3>To use this as a theme for <a href="https://github.com/TryGhost/Ghost"><i>Ghost CMS</i></a>: 📔 </h3>
+<h1 align='left'>Usage 🎓</h1>
+<h3>To use this as a theme for <a href="https://github.com/TryGhost/Ghost"><i>Ghost CMS</i></a>:</h3>
   
 - Install Ghost CLI.
 - Clone repo.
 - Compress repo content (must be a .zip archive).
 - Install as theme in Ghost admin panel.
-- Make sure your Ghost admin panel has the following pages: Tags, About, Home, 404 (if any of those are missing, just add a new page with the corresponding name)
-- Add posts (make sure to include the #blog-posts tag if you want that post to show up on the home page)
+- Make sure your Ghost admin panel has the following pages: Tags, About, Home, 404 (if any of those are missing, just add a new page with the corresponding name).
+- Add posts (make sure to include the #blog-posts tag if you want that post to show up on the home page).
 - Enjoy!
 
 
 <br />
-<h1 align='left'><i>Live Demo 📺</i></h1>
+<h1 align='left'>Live Demo</h1>
 
 ### Try a live test instance: 💻
 - [Click here to check a live instance](https://www.sneaks.me)
 
 
 <br />
-<h1 align='left'><i>Contact Me 👋</i></h1>
+<h1 align='left'>Contact Me 👋</h1>
 
-### If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com 📫
+If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com 📫
 
 
 <br />
