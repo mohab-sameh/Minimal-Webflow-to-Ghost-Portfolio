@@ -3,7 +3,7 @@
 This is an minimal Ghost-powered CMS Blog template developed on Webflow and converted to Ghost to break away from Webflow's pricey CMS, while benefiting from Ghost's insanely fast performance.
 
 
----
+
 
 ### This web portfolio has been: 📋
 - Developed in Webflow (over Webflow native CMS)
@@ -11,7 +11,7 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 - Hosted and configured as a theme for Ghost CMS.
 
 
----
+
 
 ### To use this as a theme for *[Ghost CMS](https://github.com/TryGhost/Ghost)*: 📔
 - Install Ghost CLI.
@@ -23,12 +23,13 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 - Enjoy!
 
 
----
+
 
 ### Try a live test instance: 💻
 - [Click here to check a live instance](https://www.sneaks.me)
 
 ### If you have any inquiries/recommendations feel free to contact me any time: mohabsameh@outlook.com 📫
+
 
 ---
 
