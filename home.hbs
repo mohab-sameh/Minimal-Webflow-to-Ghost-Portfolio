@@ -28,7 +28,7 @@ families: ["Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,5
             <div class="heading-wrapper">
               <h1 class="blog-headline">{{title}}</h1>
               <div class="byline-wrapper">
-                
+                <div class="byline-text">{{date created_at format="MMMM D, YYYY"}}</div>
                 <div class="byline-text">{{t "IN"}}</div>
                 <a href="{{#primary_tag}}{{url}}{{/primary_tag}}" class="byline-link" style="color: {{#primary_tag}}{{accent_color}}{{/primary_tag}}">{{#primary_tag}}{{name}}{{/primary_tag}}</a>
               </div>
