@@ -34,9 +34,6 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 <br />
 <h1 align='left'>Live Demo</h1>
 
-### Try a live test instance: 💻
-- [Click here to check a live instance](https://www.sneaks.me)
-
 
 <br />
 <h1 align='left'>Contact Me</h1>
