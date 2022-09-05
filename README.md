@@ -31,9 +31,6 @@ This is an minimal Ghost-powered CMS Blog template developed on Webflow and conv
 - Enjoy!
 
 
-<br />
-<h1 align='left'>Live Demo</h1>
-
 
 <br />
 <h1 align='left'>Contact Me</h1>
